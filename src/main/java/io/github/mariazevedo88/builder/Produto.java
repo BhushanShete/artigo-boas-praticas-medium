@@ -24,7 +24,7 @@ public class Produto {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-*/
+
 	public double getValor() {
 		return valor;
 	}
@@ -32,7 +32,7 @@ public class Produto {
 	public void setValor(double valor) {
 		this.valor = valor;
 	}
-
+*/
 
 	
 	@Override
