@@ -11,9 +11,11 @@ public class Produto {
 
 	private String nome;
 	private double valor;
+
+	private String something;
 	
 	public Produto(String nome, double valor) {
-		this.nome = nome;,,
+		this.nome = nome;
 		this.valor = valor;
 	}
 	
@@ -31,6 +33,14 @@ public class Produto {
 	
 	public void setValor(double valor) {
 		this.valor = valor;
+	}
+
+	public void setValorjckj(){
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 
 	
